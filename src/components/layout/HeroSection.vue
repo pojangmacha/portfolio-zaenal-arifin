@@ -61,12 +61,12 @@
             data-aos-duration="1500"
           >
             <div 
-              class="mt-10 p-[3px] bg-gradient-to-r from-blue-400 to-green-300 rounded-xl shadow-[5px_5px_15px_#999,-5px_-5px_15px_#fff] animate-[fadeZoom_2s_ease-in-out]"
+              class="mt-16 p-[3px] bg-gradient-to-r from-blue-400 to-green-300 rounded-xl shadow-[5px_5px_15px_#999,-5px_-5px_15px_#fff] animate-[fadeZoom_2s_ease-in-out]"
             >
               <img
                 src="@/assets/images/zae.jpeg"
                 alt="Hero picture"
-                class="w-[230px] h-[310px] object-cover rounded-lg shadow-[inset_1px_1px_3px_#fff,inset_-1px_-1px_3px_#666]"
+                class="w-[250px] h-[350px] object-cover rounded-lg shadow-[inset_1px_1px_3px_#fff,inset_-1px_-1px_3px_#666]"
                 loading="lazy"
               />
             </div>
