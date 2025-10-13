@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Zaenal Portfolio</title>
+    
+    <script>
+      const theme = localStorage.getItem('theme');
+
+      // Default ke dark mode jika belum ada tema yang disimpan, atau jika temanya 'dark'
+      if (!theme || theme === 'dark') {
+        document.documentElement.classList.add('dark');
+        // Hanya set localStorage jika tema belum ada (opsional, untuk mencegah loop)
+        if (!theme) {
+            localStorage.setItem('theme', 'dark');
+        }
+      } else if (theme === 'light') {
+        document.documentElement.classList.remove('dark');
+      }
+    </script>
+    
+  </head>
+  <body>
+    <div id="app"></div>
+    
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
