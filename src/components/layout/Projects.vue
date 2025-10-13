@@ -42,7 +42,7 @@
         <ProjectCard
           :title="project.title"
           :description="project.description"
-          :image="'/src/assets/images' + project.image"
+          :image="project.image"
           :tags="project.tags"
           :livelink="project.liveLink"
           :codelink="project.codeLink"
