@@ -6,7 +6,7 @@ import Navbar from './components/layout/Navbar.vue' // <-- Periksa ulang jalur i
 import Counter from './components/layout/Counter.vue';
 import Services from './components/layout/Services.vue';
 import Skills from './components/layout/Skills.vue';
-import WhyME from './components/layout/WhyME.vue';
+import Whyme from './components/layout/Whyme.vue';
 import Projects from './components/layout/Projects.vue';
 import Contact from './components/layout/Contact.vue';
 import Footer from './components/layout/Footer.vue';
@@ -33,7 +33,7 @@ import LoadingSpinner from './components/layout/LoadingSpinner.vue';
                 <Counter />
                 <Services />
                 <Skills />
-                <WhyME />
+                <Whyme />
                 <Projects />
                 <Contact />
                 <Footer />
