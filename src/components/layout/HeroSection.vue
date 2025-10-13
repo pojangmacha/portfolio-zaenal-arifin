@@ -30,8 +30,8 @@
        <div class="mt-6 flex justify-center lg:justify-start">
           <Button label="Hire Me" />
           <a 
-            href="/CV_Zaenal_Arifin.pdf" 
-            download="CV Zaenal Arifin.pdf"
+           href="/CV_Zaenal_Arifin.pdf" 
+            download="CV Zaenal_Arifin.pdf"
             class="flex justify-center items-center font-semibold text-lg w-[11rem] h-[60px] 
                   rounded-full ml-2 border-2 transition-transform duration-300
                   bg-white text-primary border-primary 
