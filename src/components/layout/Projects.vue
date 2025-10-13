@@ -75,7 +75,7 @@ const projects = ref([
   {
     title: 'Anggrek Sinar Mulia',
     description:'Anggrek Sinar Mulia adalah toko terpercaya yang melayani jual beli emas murni dengan sistem COD (Cash On Delivery).',
-    image: "/assets/zae-Dv2kI0_i.jpeg",
+    image: "/assets/anggrek.png",
     tags: ['Wordpress', 'Elementor', 'Tabelpress', 'Rank Math SEO'],
     liveLink: 'https://anggreksinarmulia.my.id/',
     codeLink: 'https://anggreksinarmulia.my.id/'
