@@ -1,5 +1,5 @@
 <template>
-  <header class="bg-white dark:bg-blue-900 shadow-md">
+  <header class="z-10 border-t-2 border-t-gray-300 bg-green-100 text-gray-800 dark:border-t-green-600 dark:bg-blue-900 dark:text-white shadow-md">
     <div class="flex justify-between items-center p-4 lg:px-12 relative z-20">
       <div class="text-3xl font-bold dark:text-white">
         <img 
