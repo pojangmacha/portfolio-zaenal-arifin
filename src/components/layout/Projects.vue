@@ -40,13 +40,13 @@
         :key="index"
       >
         <ProjectCard
-          :title="project.title"
-          :description="project.description"
-          :image="project.image"
-          :tags="project.tags"
-          :livelink="project.liveLink"
-          :codelink="project.codeLink"
-        />
+        :title="project.title"
+        :description="project.description"
+        :image="project.image"
+        :tags="project.tags"
+        :livelink="project.liveLink"
+        :codelink="project.codeLink"
+      />
       </swiper-slide>
     </swiper>
   </section>
