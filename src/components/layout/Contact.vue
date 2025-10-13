@@ -38,7 +38,7 @@
 
               <!-- GitHub -->
               <a 
-                href="https://github.com/zynarifin"
+                href="https://github.com/pojangmacha/portfolio-zaenal-arifin"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="text-gray-500 hover:text-gray-200 transition-all duration-300 transform hover:scale-110 hover:drop-shadow-[0_0_10px_#999]"
